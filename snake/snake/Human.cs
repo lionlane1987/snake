@@ -8,5 +8,6 @@ namespace snake
 {
     class Human
     {
+        public int age; // возраст
     }
 }

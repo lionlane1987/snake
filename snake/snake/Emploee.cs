@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace snake
 {
-    class Emploee
+    class Emploee : Human
     {
+        public int pay; // зарплата
     }
 }
